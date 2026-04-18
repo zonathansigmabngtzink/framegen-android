@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FrameForge</string>
+    <string name="export_notification_title">Video dışa aktarma sürüyor</string>
+    <string name="notification_preparing">Export hazırlanıyor</string>
+    <string name="notification_saved">Galeriye kaydedildi</string>
+    <string name="notification_failed">Export başarısız oldu</string>
+    <string name="notification_cancelled">Export iptal edildi</string>
+    <string name="error_export_failed">Export işlemi tamamlanamadı.</string>
+    <string name="cancel">İptal</string>
+</resources>

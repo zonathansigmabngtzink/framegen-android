@@ -1,0 +1,59 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- FrameForge Logo: Film strip with AI spark -->
+
+    <!-- Film strip outer frame -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,30 L30,78 L78,78 L78,30 Z M34,34 L74,34 L74,74 L34,74 Z"/>
+
+    <!-- Film perforations left -->
+    <path
+        android:fillColor="#6750A4"
+        android:pathData="M30,38 L30,44 L34,44 L34,38 Z"/>
+    <path
+        android:fillColor="#6750A4"
+        android:pathData="M30,52 L30,58 L34,58 L34,52 Z"/>
+    <path
+        android:fillColor="#6750A4"
+        android:pathData="M30,66 L30,72 L34,72 L34,66 Z"/>
+
+    <!-- Film perforations right -->
+    <path
+        android:fillColor="#6750A4"
+        android:pathData="M74,38 L74,44 L78,44 L78,38 Z"/>
+    <path
+        android:fillColor="#6750A4"
+        android:pathData="M74,52 L74,58 L78,58 L78,52 Z"/>
+    <path
+        android:fillColor="#6750A4"
+        android:pathData="M74,66 L74,72 L78,72 L78,66 Z"/>
+
+    <!-- Center frames divider -->
+    <path
+        android:fillColor="#EADDFF"
+        android:pathData="M52,34 L56,34 L56,74 L52,74 Z"/>
+
+    <!-- AI Spark/Lightning effect -->
+    <path
+        android:fillColor="#EADDFF"
+        android:pathData="M60,42 L58,54 L62,54 L56,66 L58,54 L54,54 Z"/>
+
+    <!-- Speed lines (motion effect) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.6"
+        android:pathData="M38,45 L48,45 L48,47 L38,47 Z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.6"
+        android:pathData="M38,53 L48,53 L48,55 L38,55 Z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.6"
+        android:pathData="M38,61 L48,61 L48,63 L38,63 Z"/>
+</vector>
